@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashdutta/ML%20FLOW/mlruns/0/87e4bab373954881bf2c6a14eeb2ccaa/artifacts
+end_time: 1704086064325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87e4bab373954881bf2c6a14eeb2ccaa
+run_name: delightful-cow-740
+run_uuid: 87e4bab373954881bf2c6a14eeb2ccaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704086062659
+status: 3
+tags: []
+user_id: akashdutta

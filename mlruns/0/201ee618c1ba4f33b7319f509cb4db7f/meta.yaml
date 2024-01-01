@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashdutta/ML%20FLOW/mlruns/0/201ee618c1ba4f33b7319f509cb4db7f/artifacts
+end_time: 1704088178717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 201ee618c1ba4f33b7319f509cb4db7f
+run_name: loud-deer-944
+run_uuid: 201ee618c1ba4f33b7319f509cb4db7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704088177041
+status: 3
+tags: []
+user_id: akashdutta
